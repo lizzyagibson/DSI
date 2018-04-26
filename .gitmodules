@@ -1,0 +1,15 @@
+[submodule "p8105_final_project"]
+	path = p8105_final_project
+	url = git@github.com:lizzyagibson/p8105_final_project.git
+[submodule "p8105_hw6_eag2186"]
+	path = p8105_hw6_eag2186
+	url = git@github.com:lizzyagibson/p8105_hw6_eag2186.git
+[submodule "p8105_hw_yn2295_shiny"]
+	path = p8105_hw_yn2295_shiny
+	url = git@github.com:lizzyagibson/p8105_hw_yn2295_shiny.git
+[submodule "Interactivity"]
+	path = Interactivity
+	url = git@github.com:lizzyagibson/Interactivity.git
+[submodule "five38"]
+	path = five38
+	url = git@github.com:lizzyagibson/five38.git
